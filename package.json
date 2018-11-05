@@ -1,9 +1,9 @@
 {
   "name": "nova-plugin-local-notifications",
-  "version": "0.8.6",
+  "version": "0.8.7",
   "description": "Schedules and queries for local notifications",
   "cordova": {
-    "id": "nova-plugin-local-notification",
+    "id": "nova-plugin-local-notifications",
     "platforms": [
       "ios",
       "android",

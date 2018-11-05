@@ -2,8 +2,8 @@
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="nova-plugin-local-notification"
-        version="0.8.6">
+        id="nova-plugin-local-notifications"
+        version="0.8.7">
 
     <name>LocalNotification</name>
 
